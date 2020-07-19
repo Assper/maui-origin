@@ -4,7 +4,7 @@ import { template as adsBelowTemplate } from './templates/below'
 import { template as adsBothTemplate } from './templates/both'
 
 export class Service {
-  constructor (urls) {
+  constructor(urls) {
     this.envUrl = urls
   }
 
